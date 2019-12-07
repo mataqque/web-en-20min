@@ -1,0 +1,20 @@
+{
+  "name": "red_social",
+  "version": "1.0.0",
+  "description": "Red social",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.8.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
